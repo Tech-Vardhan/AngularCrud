@@ -1,0 +1,54 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC ",
+      "email": "kfc@gmail.com",
+      "address": "Patan"
+    },
+    {
+      "id": 2,
+      "name": "BurgerKing ",
+      "email": "BurgerKing@gmail.com",
+      "address": "Noida"
+    },
+    {
+      "name": "JayBhavani ",
+      "email": "JB@gmail.com",
+      "address": "Mahesana",
+      "id": 3
+    },
+    {
+      "name": "Snacks Bar",
+      "email": "kn@gmail.com",
+      "address": "Mahesana",
+      "id": 4
+    },
+    {
+      "name": "Subway",
+      "email": "subway@gmail.com",
+      "address": "Ahmedabad",
+      "id": 5
+    },
+    {
+      "name": "GreeNFood",
+      "email": "green@gmail.com",
+      "address": "Ranip",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "Harsh",
+      "email": "hv@test.com",
+      "password": "1234567",
+      "id": 1
+    },
+    {
+      "name": "Rutvik",
+      "email": "rutvik@test.com",
+      "password": "1234567",
+      "id": 2
+    }
+  ]
+}
